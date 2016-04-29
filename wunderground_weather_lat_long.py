@@ -5,7 +5,7 @@ You need to register with wunderground and get a key
 from pprint import pprint
 import requests
 
-WUNDERGROUND_KEY = '<wunderground key>'
+# WUNDERGROUND_KEY = '<wunderground key>'
 
 def weather_for_lat_long(latitude=37.33426850, longitude=-121.88618876):
     '''
